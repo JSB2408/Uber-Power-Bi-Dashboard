@@ -17,6 +17,16 @@ This project answers **how Uber is performing and why** by breaking down key met
 The dashboard is designed with a **UI-first approach** for clarity, business usability, and a real product feel.
 
 ---
+# 📊 Dashboard Preview
+
+<img width="1525" height="856" alt="1" src="https://github.com/user-attachments/assets/9557c117-70c0-4a22-8cb7-e09e949589da" />
+<img width="1527" height="858" alt="2" src="https://github.com/user-attachments/assets/20a95a11-2d14-44e4-a962-a80570d1c725" />
+<img width="1528" height="850" alt="3" src="https://github.com/user-attachments/assets/353b8ca9-f7df-4a15-8f42-7bf09d61bffa" />
+<img width="1528" height="851" alt="4" src="https://github.com/user-attachments/assets/606c0170-dce1-40d1-9086-2656f01e7007" />
+<img width="1528" height="851" alt="5" src="https://github.com/user-attachments/assets/c4855718-c88b-48f3-83a0-2eb992ddbf04" />
+
+
+
 
 ## 📊 **Dashboard Pages**
 
